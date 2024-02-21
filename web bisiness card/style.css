@@ -6,8 +6,9 @@ text-align: center;
 body{text-align: left;}
 
 aside{
-      border: 8px;
-      color: #5F2999;}
+      border: 5px solid #5F2999;
+      padding: 3px;
+      }
 
  .goose{border-radius: 40%;}
 
