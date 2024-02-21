@@ -1,0 +1,13 @@
+.head{
+font-size: 30px;
+text-align: center;
+      }
+
+body{text-align: left;}
+
+aside{
+      border: 8px;
+      color: red;}
+
+ .goose{border-radius: 40%}
+ .start{background-color: #F5D6B8}
