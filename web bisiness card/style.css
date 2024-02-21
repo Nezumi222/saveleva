@@ -7,7 +7,10 @@ body{text-align: left;}
 
 aside{
       border: 8px;
-      color: red;}
+      color: #5F2999;}
 
- .goose{border-radius: 40%}
- .start{background-color: #F5D6B8}
+ .goose{border-radius: 40%;}
+
+ .start{background-color: #F5D6B8;}
+
+ .head1{font-weight: bold}
